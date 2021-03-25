@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kripa644/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "kripa644 <kripa@robosoftin.com> (http://kripa644.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kripa644/starwars-names/issues"
+  },
+  "homepage": "https://github.com/kripa644/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
